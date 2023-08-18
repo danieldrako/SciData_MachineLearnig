@@ -18,7 +18,8 @@ from sklearn import tree
 from sklearn.svm import SVC
 from sklearn.model_selection import cross_validate
 
-os.chdir("C:\\Users\\hp master\\Documents\\SciData\\23_ML_Py\\data\\")
+os.chdir("D:\\Documentos\\MyProjectsTests\\DataScienceMLandAI\\SciData_courses\\MachineLearnig_Py_2023\\data\\")
+
 mi_data = pd.read_csv("datos_iris.csv")
 
 #%%
